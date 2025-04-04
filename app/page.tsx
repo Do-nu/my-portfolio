@@ -104,7 +104,7 @@ export default function Portfolio() {
                     <Linkedin className="h-5 w-5" />
                     <span className="sr-only">LinkedIn</span>
                   </Link>
-                  <Link href="#" className="text-white/60 hover:text-[#c8a2c8] transition-colors">
+                  <Link href="mailto:donuforghe@gmail.com" className="text-white/60 hover:text-[#c8a2c8] transition-colors">
                     <Mail className="h-5 w-5" />
                     <span className="sr-only">Email</span>
                   </Link>
@@ -390,7 +390,7 @@ export default function Portfolio() {
           <div className="flex flex-col md:flex-row justify-between items-center">
             <div className="mb-4 md:mb-0">
               <Link href="/" className="text-xl font-bold text-[#c8a2c8]">
-                <span className="font-light">Jane</span>Developer
+                <span className="font-light">Donu</span> Forghe
               </Link>
               <p className="text-sm text-white/50 mt-1">© {new Date().getFullYear()} All Rights Reserved</p>
             </div>
